@@ -203,10 +203,9 @@
 .section-img .btn {
     font-size: 14px;
     font-weight: 500;
-    border: none;
-    outline: none;
     padding: 10px 20px;
     border-radius: 6px;
+    text-decoration: none;
     cursor: pointer;
     background-color: #FF8201;
     color: #fff;
